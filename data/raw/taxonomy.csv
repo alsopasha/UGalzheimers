@@ -1,0 +1,6 @@
+ASV_ID,Kingdom,Phylum,Class,Order,Family,Genus,Species
+ASV1,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Porphyromonas gingivalis
+ASV2,Bacteria,Spirochaetota,Spirochaetia,Spirochaetales,Spirochaetaceae,Treponema,Treponema denticola
+ASV3,Bacteria,Fusobacteriota,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium nucleatum
+ASV4,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus oralis
+ASV5,Bacteria,Actinomycetota,Actinomycetes,Actinomycetales,Actinomycetaceae,Actinomyces,Actinomyces naeslundii
